@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "amiable-aquifer-468111-t8",
+  "private_key_id": "ac4332b2c901aa1298474320cc619884132ba437",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCf6R6vVUjjhY6R\nYWedzc3dzWfW5IWqpvhzjjT+SwdqdYv0xYdSKwFLZa8j8wvMX+XxInEAfKx2g8bU\nWZ/3yuuQe4oXBatYQBU/6sihZ1q0lTBRXN1Wu0XJ7JoSYa7VIGYLmy9io64+7MCr\n4RwQz2by+x8lfYnvT1sHUPLS1iM1GEKtFqCfOSSn3/Y9gfCO7V+dPqdIbZ9J2zmg\nD9fETqCkPEe+vEstHuikjlhTCgSiUxTZ8Y56xhQwuMnGhShica1+rN7sBFpJKROF\nAF2KE1aAIyHs8y9/Bfu/CBxWK4GehcJo94lHoKWoponBy+GZyh4lBMzi+jG0h8xB\nQFVxxawDAgMBAAECggEABidYcPLdPTQ0ik+vRxlWZMS0zEY7BpgqU3gTff2xKV2g\npyi6zmStRhOBq+Z8e77tAFyM8LHbiSwFCMLyLvz2F7dJVx12vIyqxKzqT5vEl9Jt\n65OhSOcoBl8+hpqPuc/nXWb5adhWqkE+IN8mz1bL5WnYhv7Pwg/RtvRcg9SNwks/\nDU44Aqn30y5GUyQ62GHC/eyf5gybra314Fd9tSfh/lprXEOsOVg/LDjPpn8ka+P5\nJmqFx2RPhQxUSAz30/eqITNsEJtwHqhJTYBvOOITfLWJ9BGdvF4pLt91Rq5xDeG7\nLnL9LP3Q6UQCUo0WaWTLDsZfvHhOYh/bMJKDGRjVcQKBgQDgnuxxuGkfgTMNABfk\n29aKT1q7Z7lpFO55GceF4J2efp49fHpscXowk4N2vK9ZuXt8IYY0RoBGL/pAyB0G\nhW9L2YiJaoFlsKGzjsAwnhKkR/st93y6juIc/Y4HPr7OwFJCXFLl6H2juD0TRwbp\ndfcz13/6Ejs0NqDkvw5o6O/85wKBgQC2P/ojcXkUqp/D8dZA07Z3I0vh3JedTvJ7\nRCoQ3AS8fUb58sYvbddre6BP5NcFjT43PAFcCj1jfGUTAR9DQ/0X3QQhIB2T86QA\n+R6a0kqONM2/aw0c1PJhZDqGJ+W4uPhQupu+X9ke3DhgF1pKG8i3/9KGmYWnXtEM\nad0ZCL14hQKBgQDZyx6lsVI0mvid/V4tqL8gAouONKeBbStBPq7Ib59FA655Hc4y\ngeEhYpbQtWksjX1fQb43x7gu1exHjgEexpjAqd8Kprtql1ZinOJbAZo/sg+pZVOK\nLGqwA2YIPl2SaMYZ1B0JEWFpMoX9wBvCmIAlwykylyTSnrlospvNOzcfNwKBgHoN\naoWmDsKqagidwzDzGDW9a6o9Q0RUhMvMoKdd0cYx2AC4d8V3uFcBGiGnTeEn8Eyp\nYPe029vuiPorPDaeJ7d9irBsg6J7/o+wRrDEuK1363qQRN3UNubGavNBcPU+2v2l\nm3vpUMz8Cr0/pnYPGWMwbls6IWovc6zukOWdFtbJAoGBANtVAfgeBDFQUdRqPPLt\nmjoI48g5+CT6xhXAi7DcSwYNctFrvV8Ui93RxtoU7ZRUSlKF03KLiCrPe0+8dVCM\np+iGW5dEKThrVY+IhwrbZVYl3kj7vYUoRF6ZJ3p5KbgU1ksniWbzEtJCDG7pEikW\nfTvn3yFWTdUxHjCM122O43Cs\n-----END PRIVATE KEY-----\n",
+  "client_email": "children-protect-packing-analy@amiable-aquifer-468111-t8.iam.gserviceaccount.com",
+  "client_id": "108350771294412091289",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/children-protect-packing-analy%40amiable-aquifer-468111-t8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
